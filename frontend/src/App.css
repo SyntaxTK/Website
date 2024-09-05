@@ -9,13 +9,27 @@ body {
   background-color: #222222;
 }
 
+.spacer {
+  width: 100vw;
+  height: 10rem;
+}
+
 #welcome-section {
+  width: 100vw;
+  height: 100vh;
+}
+
+#container {
   display: flex;
   justify-content: center;
 }
 
 #syntax-header {
   color: #fe7e27;
-  font-size: 10rem;
-  padding: 10rem;
+  font-size: 7rem;
+  padding: 6rem;
+}
+
+#syntax-logo {
+  height: 30em;
 }

@@ -4,7 +4,11 @@ function App() {
   return (
     <div>
       <section id="welcome-section">
-        <h1 id="syntax-header">Syntax linjeforening</h1>
+        <div class="spacer"></div>
+        <div id="container">
+          <h1 id="syntax-header">Syntax linjeforening</h1>
+          <img src="../public/images/Syntax-logo.png" alt="Syntax Logo" id="syntax-logo" />
+        </div>
       </section>
     </div>
   )
