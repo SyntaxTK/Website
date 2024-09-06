@@ -7,7 +7,7 @@ function App() {
         <div class="spacer"></div>
         <div id="container">
           <h1 id="syntax-header">Syntax linjeforening</h1>
-          <img src="../public/images/Syntax-logo.png" alt="Syntax Logo" id="syntax-logo" />
+          <img src="../public/logo/Syntax-logo.png" alt="Syntax Logo" id="syntax-logo" />
         </div>
       </section>
     </div>
